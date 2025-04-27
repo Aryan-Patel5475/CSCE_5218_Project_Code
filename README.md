@@ -11,8 +11,7 @@ Models to Compare: DenseNet121, VGG-16 and Inception V3
 ## 1. Code Organization
 
 - The codes for **ResNet50**, **DenseNet121**,**Inception V3** and **VGG16** are located in the **main folder**.
-- There is an additional folder containing:
-  - The corresponding results for each model with its combination (CLAHE, Polynomial Transformation and CLAHE + Polynomial Transformation).
+- There is an additional folder containing the corresponding results for each model with its combination (CLAHE, Polynomial Transformation and CLAHE + Polynomial Transformation).
 
 ## 2. Execution Order
 
